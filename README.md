@@ -1,7 +1,8 @@
-ERC-721 Token Name - My Star
-ERC-721 Token Symbol - MS
-Truffle Version - v5.5.28, OpenZeppelin/contracts Version - 2.5.1
-Your Token Address on the Rinkeby Network - 0x71F6a5085Dd2509ECF6467D13615DaF99913b262
+1. **ERC-721 Token Name** - My Star
+2. **ERC-721 Token Symbol** - MS
+3. **Truffle Version** - v5.5.28,
+4. **OpenZeppelin/contracts Version** - 2.5.1
+5. **Your Token Address on the Rinkeby Network** - 0x71F6a5085Dd2509ECF6467D13615DaF99913b262
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
